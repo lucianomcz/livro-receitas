@@ -7,4 +7,6 @@ ola aqui esta meu livro de receitas emocition
 - tomate
 - cebola
 
+- alface
+- maizena
 
